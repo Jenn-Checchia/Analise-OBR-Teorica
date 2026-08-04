@@ -1,0 +1,5 @@
+Segue o link para o colab que hospeda o Agente Calssificador. Esse moldelo não está conectado à atual planilha que alimenta o dashboard, 
+mas é uma réplica exata do que está (em termos operacionais, desconsiderando-se caminhos de arquivos). Dessa forma, convidamos-os as testar
+com segurança à aplicação (de forma local).
+
+Está disponível em: https://link.ufms.br/colab-modelo-classificador
